@@ -62,7 +62,9 @@ var adder = function () {
 
 //What is the difference between arguments and parameters?
 
-Argument are used to invoke a function. Whereas, parameters are not.
+Arguments are used in the invocation of a function. Whereas, parameters are not.
+arguments are actual values. Whereas, parameters are aliases for the values.
+
 
 
 //Next problem
